@@ -1,4 +1,5 @@
 kemalim yapmaz
+yapar yapar
 <div class="f-widget"><!--footer Widget-->
 		<div class="container">
 			<div class="row">
