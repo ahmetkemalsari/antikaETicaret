@@ -1,3 +1,4 @@
+kemalim yapmaz
 <div class="f-widget"><!--footer Widget-->
 		<div class="container">
 			<div class="row">
